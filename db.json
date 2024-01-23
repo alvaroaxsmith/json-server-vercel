@@ -3,24 +3,45 @@
     "projects": [
       {
         "id": 1,
-        "name": "Soul GYM",
-        "tech": "HTML | CSS | JS",
-        "description": "Responsive website of a fictional gym.",
-        "repo": "https://github.com/alvaroaxsmith/academia-soulcode"
+        "name": "Portfolio Website",
+        "tech": "Angular | Angular Material | JSON Server",
+        "description": "Personal website where I present my biography, CV, courses and projects. The frontend part consumes a fake API that uses mocked data, being implemented with JSON Server.",
+        "repo": "https://github.com/alvaroaxsmith/portfolio"
       },
       {
         "id": 2,
+        "name": "Auto Maintenance - Landing Page",
+        "tech": "Next | React | Typescript | Tailwind",
+        "description": "This is a landing page for a fictional car maintenance company, built using React, TypeScript, Next.js and Tailwind CSS.",
+        "repo": "https://github.com/alvaroaxsmith/auto-maintenance-landing"
+      },
+      {
+        "id": 3,
+        "name": "Referral System API",
+        "tech": "Express | Typescript | Mysql | Docker",
+        "description": "This API is designed to facilitate a unique referral code generation process for customers upon making a purchase.",
+        "repo": "https://github.com/alvaroaxsmith/referral_system"
+      },
+      {
+        "id": 4,
+        "name": "Github User Finder",
+        "tech": "Angular | Angular Material",
+        "description": "This application does Github user searches using an official Github api.",
+        "repo": "https://github.com/alvaroaxsmith/buscador-github"
+      },
+      {
+        "id": 5,
         "name": "Mammography Data System",
         "tech": "Angular | Java",
         "description": "System for providing data on mammography exams performed by Brazilian women in the national territory.",
         "repo": "https://github.com/alvaroaxsmith/dados-mamografia"
       },
       {
-        "id": 3,
-        "name": "Github User Finder",
-        "tech": "Angular | Angular Material",
-        "description": "This application does Github user searches using an official Github api.",
-        "repo": "https://github.com/alvaroaxsmith/buscador-github"
+        "id": 6,
+        "name": "Soul GYM",
+        "tech": "HTML | CSS | JS",
+        "description": "Responsive website of a fictional gym.",
+        "repo": "https://github.com/alvaroaxsmith/academia-soulcode"
       }
     ]
   },
@@ -758,7 +779,9 @@
   },
   "images": {
     "images": [
-      { "url": "https://www.dropbox.com/s/355caswjym0cyxs/perfil.png?raw=1" }
+      {
+        "url": "https://www.dropbox.com/s/355caswjym0cyxs/perfil.png?raw=1"
+      }
     ]
   }
 }
